@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teamcity-plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:schemas-jetbrains-com:teamcity-plugin-v1-xml">
+  <info>
+    <name>sysInfo</name>
+    <display-name>JetBrains sysInfo</display-name>
+    <version>@Version@</version>
+    <description>Provides an ability to extract Windows system information and to publish it to agents' configuration parameters.</description>
+    <download-url>https://github.com/JetBrains/teamcity-sysinfo-plugin</download-url>
+    <email>Nikolay.Pianikov@jetbrains.com</email>
+    <vendor>
+      <name>JetBrains</name>
+      <url>https://www.jetbrains.com/</url>
+      <logo>https://www.jetbrains.com/company/docs/logo_jetbrains.png</logo>
+    </vendor>
+  </info>
+  <deployment use-separate-classloader="true" />
+</teamcity-plugin>

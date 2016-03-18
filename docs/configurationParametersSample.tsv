@@ -1,0 +1,48 @@
+Configuration Parameter	Value
+teamcity.agent.os.available.physical.memory	1487
+teamcity.agent.os.bios.version	American Megatrends Inc. V2.7, 23.12.2014
+teamcity.agent.os.bitness	64
+teamcity.agent.os.boot.device	\Device\HarddiskVolume1
+teamcity.agent.os.domain	MyDomain
+teamcity.agent.os.host.name	MyComputer
+teamcity.agent.os.hotfix.kb3116900	
+teamcity.agent.os.hotfix.kb3124200	
+teamcity.agent.os.hotfix.kb3124262	
+teamcity.agent.os.hotfix.kb3124263	
+teamcity.agent.os.hotfix.kb3135173	
+teamcity.agent.os.hotfix.kb3139907	
+teamcity.agent.os.hotfix.kb3140741	
+teamcity.agent.os.hotfix.kb3140743	
+teamcity.agent.os.hotfix.kb3140768	
+teamcity.agent.os.hotfix.kb3144756	
+teamcity.agent.os.hyper-v.requirements	VM Monitor Mode Extensions: Yes,Virtualization Enabled In Firmware: Yes,Second Level Address Translation: Yes,Data Execution Prevention Available: Yes
+teamcity.agent.os.input.locale	en-us;English (United States)
+teamcity.agent.os.logon.server	\\MYSERVER
+teamcity.agent.os.network.card.fe80a0f0a4ebd653386d	
+teamcity.agent.os.network.card.hyper-v.virtual.ethernet.adapter	
+teamcity.agent.os.network.card.realtek.pcie.gbe.family.controller	
+teamcity.agent.os.network.card.virtualbox.host-only.ethernet.adapter	
+teamcity.agent.os.network.card.vmware.virtual.ethernet.adapter.for.vmnet1	
+teamcity.agent.os.network.card.vmware.virtual.ethernet.adapter.for.vmnet8	
+teamcity.agent.os.original.install.date	16.12.2015, 12:56:25
+teamcity.agent.os.os.build.type	Multiprocessor Free
+teamcity.agent.os.os.configuration	Member Workstation
+teamcity.agent.os.os.manufacturer	Microsoft Corporation
+teamcity.agent.os.os.name	Microsoft Windows 10 Pro
+teamcity.agent.os.os.version	10.0.10586 N/A Build 10586
+teamcity.agent.os.processor.intel64.family.6.model.60.stepping.3.genuineintel.3601.mhz	
+teamcity.agent.os.product.id	00330-80000-00000-AA854
+teamcity.agent.os.registered.organization	MyCompany
+teamcity.agent.os.registered.owner	MyCompany
+teamcity.agent.os.system.boot.time	29.03.2016, 10:15:17
+teamcity.agent.os.system.directory	C:\WINDOWS\system32
+teamcity.agent.os.system.locale	ru;Russian
+teamcity.agent.os.system.manufacturer	MSI
+teamcity.agent.os.system.model	MS-7923
+teamcity.agent.os.system.type	x64-based PC
+teamcity.agent.os.time.zone	(UTC+03:00) Moscow, St. Petersburg, Volgograd (RTZ 2)
+teamcity.agent.os.total.physical.memory	16254
+teamcity.agent.os.virtual.memory.available	7776
+teamcity.agent.os.virtual.memory.in.use	19230
+teamcity.agent.os.virtual.memory.max.size	27006
+teamcity.agent.os.windows.directory	C:\WINDOWS
