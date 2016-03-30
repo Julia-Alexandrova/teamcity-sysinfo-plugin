@@ -1,7 +1,6 @@
 Configuration Parameter	Value
 teamcity.agent.os.available.physical.memory	1487
 teamcity.agent.os.bios.version	American Megatrends Inc. V2.7, 23.12.2014
-teamcity.agent.os.bitness	64
 teamcity.agent.os.boot.device	\Device\HarddiskVolume1
 teamcity.agent.os.domain	MyDomain
 teamcity.agent.os.host.name	MyComputer
